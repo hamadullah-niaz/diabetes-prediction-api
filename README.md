@@ -21,3 +21,9 @@ This project predicts whether a patient is diabetic or not using Machine Learnin
 
 ```bash
 uvicorn app:app --reload
+
+##API Docs
+
+After running the project locally, open:
+
+http://127.0.0.1:8000/docs
